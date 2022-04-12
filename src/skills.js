@@ -39,7 +39,6 @@ function Skills() {
                         <img src={`${node}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         <img src={`${jquery}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         
-
                         <img src={`${html}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         <img src={`${css}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
                         <img src={`${bootstrap}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>

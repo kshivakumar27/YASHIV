@@ -3,6 +3,8 @@ import url from './images/url.jpg';
 import bms from './images/bookmyshow.jpg';
 import swipe from './images/swipe.png';
 import hire from './images/hiring.jpg';
+import smartcity from './images/smartcity.jpg';
+import spid1 from './images/spid1.jpg';
 
 function Projects() {
     return (
@@ -16,7 +18,14 @@ function Projects() {
                                 <h2 className="colorlib-heading animate-box">Recent Projects</h2>
                             </div>
                         </div>
-                        <div className="row">
+                        
+
+
+
+
+
+
+                            <div className="row">
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="project" style={{ backgroundImage: `url(${bms})` }}>
                                     <div className="desc">
@@ -33,6 +42,42 @@ function Projects() {
                                     </div>
                                 </div>
                             </div>
+
+                           
+
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${smartcity})`}}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a>Smart City</a></h3>
+                                            <span>A Full Stack Website for Smart City (Django web app).<br/>Here i have done Django(python) full stack web app with postgresql.<br/></span>
+                                            <h3 className="mt-2"><a>Tech used</a></h3>
+                                            <span>Django<br/>Postgresql<br/>Pgadmin</span>
+                                            <p className="icon">
+                                                <span><a href="" target="_blank">Website</a></span>
+                                                <span className="float-right"><a href="" target="_blank">View Code</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+                                <div className="project" style={{ backgroundImage: `url(${spid1})`}}>
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3><a>Smart City</a></h3>
+                                            <span>Random password Generator<br/>Here i have done random project generating using python and javascript<br/></span>
+                                            <h3 className="mt-2"><a>Tech used</a></h3>
+                                            <span>Python<br/>Javascript</span>
+                                            <p className="icon">
+                                                <span><a href="" target="_blank">Website</a></span>
+                                                <span className="float-right"><a href="" target="_blank">View Code</a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                             <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
                                 <div className="project" style={{ backgroundImage: `url(${url})`}}>
                                     <div className="desc">

@@ -21,10 +21,10 @@ function Timeline() {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Full Stack Web development using Spring boot/Angular And Have a Knowledge Azure Devops able build and run pipline for projects <span>2021-present</span></h2>
-                                                <h2>Full Stack Web development using Javascript,PHP,Jquery,HTML,CSS,Bootstrap and some basic knowledge of AWS LAmbda <span>2021-present</span></h2>
+                                                <h2>Full Stack Web development using Spring boot/Angular,Git And Have a Knowledge Azure Devops able build and run pipline for projects <span>2021-present</span></h2>
+                                                <h4>Full Stack Web development using  MERN,Javascript,Jquery,HTML,CSS,PHP,Bootstrap and knowledge of AWS Lambda <span>2021-present</span></h4>
                                                
-                                                <p>I recently have joined the LTTS as a SoftwareEngineer. My major part of the work has been into the field of creating sustainable and flexible Full Stack Websites using Angular as frontend and Springboot/Mysql as backend.and some basic knowledge of AWS and also some Basics of DS and Algorithms.</p>
+                                                <h5>I recently have joined the LTTS as a SoftwareEngineer. My major part of the work has been into the field of creating sustainable and flexible Full Stack Websites using Angular as frontend and Springboot/Mysql as backend.and some basic knowledge of AWS and also some Basics of DS and Algorithms.</h5>
                                             </div>
                                         </div>
                                     </article>
@@ -40,7 +40,7 @@ function Timeline() {
                                                 <i className="icon-pen2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Postgraduation at Sri JC College of Engineering(Jss sceince and Technology University)<span>2015-2019</span></h2>
+                                                <h2>Postgraduation at Sri JC College of Engineering(Jss science and Technology University)<span>2019-2021</span></h2>
                                                 <p>I pursued my post-graduation studies with major in I.S.E(Software Engineering) with 9.0 cgpa. I have also worked as Django Full stack developer during college,I have also been part of Hackathons</p>
                                             </div>
                                         </div>

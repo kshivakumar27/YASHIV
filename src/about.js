@@ -39,7 +39,7 @@ function About(){
                 </span>
                 <div className="desc">
                     <h3>Full Stack Web Development </h3>
-                    <p>I have experience building websites using JavaScript,Spring boot,ReactJS,Angular,PHP,,Jquery,NodeJS,HTML,CSS,Boostrap</p>
+                    <p>I have experience building websites using JavaScript,Spring boot,ReactJS,Angular,Jquery,NodeJS,HTML,CSS,PHP,Boostrap</p>
                 </div>
                 </div>
             </div>

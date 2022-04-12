@@ -18,9 +18,17 @@ function Tools() {
                         </div>
                         <div>
                         <img src={`${vscode}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
+                       
+                      
                         <img src={`${netbeans}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
+                       
+                        
                         <img src={`${postman}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
+                       
+                       
                         <img src={`${xammp}`} className="sk animate-box" data-animate-effect="fadeInRight" alt="img"></img>
+                       
+                       
                         <img src={`${github}`} className="sk animate-box" data-animate-effect="fadeInLeft" alt="img"></img>
                         </div>
                     </div>
