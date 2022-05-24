@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/YASHIV/static/css/main.a617e044.chunk.css",
-    "main.js": "/YASHIV/static/js/main.ed644d80.chunk.js",
-    "main.js.map": "/YASHIV/static/js/main.ed644d80.chunk.js.map",
-    "runtime-main.js": "/YASHIV/static/js/runtime-main.d8460f01.js",
-    "runtime-main.js.map": "/YASHIV/static/js/runtime-main.d8460f01.js.map",
+    "main.js": "/YASHIV/static/js/main.b6a1102f.chunk.js",
+    "main.js.map": "/YASHIV/static/js/main.b6a1102f.chunk.js.map",
+    "runtime-main.js": "/YASHIV/static/js/runtime-main.87130055.js",
+    "runtime-main.js.map": "/YASHIV/static/js/runtime-main.87130055.js.map",
     "static/css/2.f1355876.chunk.css": "/YASHIV/static/css/2.f1355876.chunk.css",
-    "static/js/2.e1c01db6.chunk.js": "/YASHIV/static/js/2.e1c01db6.chunk.js",
-    "static/js/2.e1c01db6.chunk.js.map": "/YASHIV/static/js/2.e1c01db6.chunk.js.map",
-    "static/js/3.deb27191.chunk.js": "/YASHIV/static/js/3.deb27191.chunk.js",
-    "static/js/3.deb27191.chunk.js.map": "/YASHIV/static/js/3.deb27191.chunk.js.map",
+    "static/js/2.2875de10.chunk.js": "/YASHIV/static/js/2.2875de10.chunk.js",
+    "static/js/2.2875de10.chunk.js.map": "/YASHIV/static/js/2.2875de10.chunk.js.map",
+    "static/js/3.fce3ec6a.chunk.js": "/YASHIV/static/js/3.fce3ec6a.chunk.js",
+    "static/js/3.fce3ec6a.chunk.js.map": "/YASHIV/static/js/3.fce3ec6a.chunk.js.map",
     "index.html": "/YASHIV/index.html",
     "static/css/2.f1355876.chunk.css.map": "/YASHIV/static/css/2.f1355876.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/YASHIV/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e1c01db6.chunk.js.LICENSE.txt": "/YASHIV/static/js/2.e1c01db6.chunk.js.LICENSE.txt",
+    "static/js/2.2875de10.chunk.js.LICENSE.txt": "/YASHIV/static/js/2.2875de10.chunk.js.LICENSE.txt",
     "static/media/ABCtrainingATMECERTIFICATION_1.5b2027a8.jpg": "/YASHIV/static/media/ABCtrainingATMECERTIFICATION_1.5b2027a8.jpg",
     "static/media/ATMECodeArenacertification_1.45a2c7ae.jpg": "/YASHIV/static/media/ATMECodeArenacertification_1.45a2c7ae.jpg",
     "static/media/ATMEFocusAcademyTrainingcertification_1.63cd3be1.jpg": "/YASHIV/static/media/ATMEFocusAcademyTrainingcertification_1.63cd3be1.jpg",
@@ -63,10 +63,10 @@
     "static/media/xammp.405d76eb.png": "/YASHIV/static/media/xammp.405d76eb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8460f01.js",
+    "static/js/runtime-main.87130055.js",
     "static/css/2.f1355876.chunk.css",
-    "static/js/2.e1c01db6.chunk.js",
+    "static/js/2.2875de10.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.ed644d80.chunk.js"
+    "static/js/main.b6a1102f.chunk.js"
   ]
 }
